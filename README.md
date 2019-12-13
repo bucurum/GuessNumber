@@ -31,7 +31,7 @@ Enter a smaller number
 
 ----------------------------------
 
-<h5>If yout number smaller than my number:</h5>  
+<h5>If yout number smaller than my number:</h5>
 
 ---------------------------------- 
 8 tries remained 
@@ -44,7 +44,6 @@ Enter a bigger number
 
 ---------------------------------- 
 0 tries remained 
-
 ----------------------------------
 Game Over
 True Answer is 20
