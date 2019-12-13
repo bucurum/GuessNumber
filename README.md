@@ -12,17 +12,17 @@ press 3 to Hard Mode
 press 4 to exit
 
 
-<h5>Easy mode:</h5>
+<h2>Easy mode:</h2>
 Enter a number from 0 to 100, You have 15 tries
 
-<h5>Medium mode:</h5>
+<h2>Medium mode:</h2>
 Enter a number from 0 to 100, You have 10 tries
 
-<h5>Hard mode:</h5>
+<h2>Hard mode:</h2>
 Enter a number from 0 to 100, You have 5 tries
 
 
-<h5>If your number bigger than my number:</h5>  
+<h2>If your number bigger than my number:</h2>  
 
 ---------------------------------- 
 13 tries remained 
@@ -31,7 +31,7 @@ Enter a smaller number
 
 ----------------------------------
 
-<h5>If yout number smaller than my number:</h5>
+<h2>If yout number smaller than my number:</h2>
 
 ---------------------------------- 
 8 tries remained 
@@ -40,7 +40,7 @@ Enter a bigger number
 
 ----------------------------------
 
-<h5>When you lose:</h5>
+<h2>When you lose:</h2>
 
 ---------------------------------- 
 0 tries remained 
@@ -48,10 +48,10 @@ Enter a bigger number
 Game Over
 True Answer is 20
 
-<h4>When you won:</h4>
+<h2>When you won:</h2>
 
 Congratulations, You won with 2 tries
 
-<h4>When you won with first shot:</h4>
+<h2>When you won with first shot:</h2>
 
 Wowwww you hit the target with 1st try!!!!
