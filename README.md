@@ -1,4 +1,4 @@
-<h1>Berke Ucurum's Hangman Game<h1\> 
+<h1>Berke Ucurum's Hangman Game</h1> 
 
 Basicly this game create a random number, can you find it ???
 
