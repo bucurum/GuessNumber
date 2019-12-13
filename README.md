@@ -23,7 +23,6 @@ Enter a number from 0 to 100, You have 5 tries
 
 
 <h5>If your number bigger than my number:</h5>
-
 ---------------------------------- 
 13 tries remained 
 ----------------------------------
@@ -31,7 +30,6 @@ Enter a smaller number
 ----------------------------------
 
 <h5>If yout number smaller than number:</h5>
-
 ---------------------------------- 
 8 tries remained 
 ----------------------------------
@@ -39,7 +37,6 @@ Enter a bigger number
 ----------------------------------
 
 <h5>When you lose:</h5>
-
 ---------------------------------- 
 0 tries remained 
 ----------------------------------
