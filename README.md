@@ -44,15 +44,15 @@ Enter a bigger number
 
 ---------------------------------- 
 0 tries remained 
-----------------------------------
 
+----------------------------------
 Game Over
 True Answer is 20
 
-<h5>When you won:</h5>
+<h4>When you won:</h4>
 
 Congratulations, You won with 2 tries
 
-<h5>When you won with first shot:</h5>
+<h4>When you won with first shot:</h4>
 
 Wowwww you hit the target with 1st try!!!!
