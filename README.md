@@ -22,14 +22,14 @@ Enter a number from 0 to 100, You have 10 tries
 Enter a number from 0 to 100, You have 5 tries
 
 
-<h5>If your number bigger than my number:</h5>
+<h5>If your number bigger than my number:</h5>  
 ---------------------------------- 
 13 tries remained 
 ----------------------------------
 Enter a smaller number 
 ----------------------------------
 
-<h5>If yout number smaller than number:</h5>
+<h5>If yout number smaller than number:</h5>  
 ---------------------------------- 
 8 tries remained 
 ----------------------------------
