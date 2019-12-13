@@ -1,8 +1,8 @@
 <h1>Berke Ucurum's Hangman Game</h1> 
 
-Basicly this game create a random number, can you find it ???
+<h3>Basicly this game create a random number, can you find it ???
 
-Good luck ! Because you're gone need this.
+Good luck ! Because you're gone need this. </h3>
 
 
 Welcome.... 
@@ -12,17 +12,17 @@ press 3 to Hard Mode
 press 4 to exit
 
 
-Easy mode:
+<h5>Easy mode:</h5>
 Enter a number from 0 to 100, You have 15 tries
 
-Medium mode:
+<h5>Medium mode:</h5>
 Enter a number from 0 to 100, You have 10 tries
 
-Hard mode:
+<h5>Hard mode:</h5>
 Enter a number from 0 to 100, You have 5 tries
 
 
-If your number bigger than my number:
+<h5>If your number bigger than my number:</h5>
 
 ---------------------------------- 
 13 tries remained 
@@ -30,7 +30,7 @@ If your number bigger than my number:
 Enter a smaller number 
 ----------------------------------
 
-If yout number smaller than number:
+<h5>If yout number smaller than number:</h5>
 
 ---------------------------------- 
 8 tries remained 
@@ -38,7 +38,7 @@ If yout number smaller than number:
 Enter a bigger number 
 ----------------------------------
 
-<h3>When you lose:<h3>
+<h5>When you lose:</h5>
 
 ---------------------------------- 
 0 tries remained 
@@ -46,10 +46,10 @@ Enter a bigger number
 Game Over
 True Answer is 20
 
-When you won:
+<h5>When you won:</h5>
 
 Congratulations, You won with 2 tries
 
-When you won with first shot:
+<h5>When you won with first shot:</h5>
 
 Wowwww you hit the target with 1st try!!!!
