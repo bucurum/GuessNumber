@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class SayiTahmin
+public class GuessNumber
 {
     public static void main(String[] args)
     {
