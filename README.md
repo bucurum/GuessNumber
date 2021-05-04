@@ -2,7 +2,7 @@
 
 <h3>Basicly this game create a random number, can you find it ???
 
-Good luck ! Because you're gone need this. </h3>
+Good luck ! Because you're gone need it. </h3>
 
 
 Welcome.... 
