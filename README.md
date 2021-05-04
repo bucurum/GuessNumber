@@ -1,4 +1,4 @@
-<h1>Berke Ucurum's NumberGuess Game</h1> 
+<h1>Berke's NumberGuess Game</h1> 
 
 <h3>Basicly this game create a random number, can you find it ???
 
